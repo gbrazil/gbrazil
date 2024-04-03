@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=BCF776&random=false&width=435&lines=%F0%9F%8C%8EBem+vindo+ao+meu+GitHub%F0%9F%8C%8D)](https://git.io/typing-svg)
 
 
-![Imagem](https://img.freepik.com/vetores-gratis/paisagem-digital-com-design-de-wireframe-techno_1048-12304.jpg?w=1480&t=st=1712171522~exp=1712172122~hmac=2efe2202ca1c0b4cbc91e9d8f7db9909f03e2fd2bcf02cf014e300278e878082)
+![Imagem](https://img.freepik.com/vetores-gratis/paisagem-digital-com-design-de-wireframe-techno_1048-12304.jpg?w=720&t=st=1712171522~exp=1712172122~hmac=2efe2202ca1c0b4cbc91e9d8f7db9909f03e2fd2bcf02cf014e300278e878082)
 </div>
 ## 🚀 Sobre mim
 Me chamo Gabriel, tenho 25 anos. Sou natural de Angra dos Reis-RJ, mas atualmente 
