@@ -6,7 +6,9 @@
 
 
 ![Imagem](https://img.freepik.com/vetores-gratis/paisagem-digital-com-design-de-wireframe-techno_1048-12304.jpg?w=720&t=st=1712171522~exp=1712172122~hmac=2efe2202ca1c0b4cbc91e9d8f7db9909f03e2fd2bcf02cf014e300278e878082)
+
 </div>
+
 ## 🚀 Sobre mim
 Me chamo Gabriel, tenho 25 anos. Sou natural de Angra dos Reis-RJ, mas atualmente 
 moro em São Paulo-SP, onde estudo Geografia na Universidade de São Paulo(USP)
